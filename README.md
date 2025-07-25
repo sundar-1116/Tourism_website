@@ -16,8 +16,6 @@ Destinations: Highlighted travel locations.
 
 Gallery: Images showcasing tourist spots.
 
-Contact Us: Simple form for user inquiries.
-
 Smooth scrolling and user-friendly navigation.
 
 🚀 Tech Stack
@@ -33,8 +31,6 @@ Deployed using GitHub Pages.
 For any queries or improvements:
 
 GitHub: sundar-1116
-
-Email: (your email if you want to add)
 
 ❤️ Contributing
 Pull requests are welcome to add more pages, animations, or improve responsiveness.
